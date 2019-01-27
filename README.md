@@ -1,3 +1,10 @@
+
+
+Fork of: Malcolm Robb's dump1090 version.
+Intended to change (non free) google Maps with the (free) LeafLet maps. https://leafletjs.com.
+
+
+
 Dump1090 README
 ===
 
